@@ -19,3 +19,10 @@ Semana 4, 6, 9 y 12 se realiza practica respectivamente
 
 Septiembre 18 Clase 2
 
+>> Identificadores, constantes y variables:
+
+Identificadores: no deben contener espacios, iniciar con numero, palabras reservadas
+
+Identificadores: Deben representar el contenido, utilizar gion bajo para dividir palabras, constantes en mayuscula, adoptar un estandar ejemplo camelCase
+
+Primero se hacen las operaciones artimeticas luego las logicas
